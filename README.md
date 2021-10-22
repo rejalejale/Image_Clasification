@@ -1,10 +1,10 @@
-ini adalah tugas kelompok AI-5D
+## Profile
+Ini adalah repository tugas kelompok AI-5D Image Classification
 
 Nama Anggota:
+>Ivan Maulana Arrasid (197)
 
-Ivan Maulana Arrasid 197
-
-Muhammad Ichrizal Zakaria 195
+>Muhammad Ichrizal Zakaria (195)
 
 ## Dataset AI Image Classification
 Pada project kali ini kami menggunakan 2 Label Dataset yang bertema herbal leaves
